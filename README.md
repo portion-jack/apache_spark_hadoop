@@ -1,5 +1,24 @@
 # Apache Spark Hadoop setting
 
+```
+.
+├── README.md
+├── codes
+│   ├── 01_pyspark.ipynb
+│   ├── 03_rdd.ipynb
+│   ├── 04_rdd.ipynb
+│   ├── 05_rdd.ipynb
+│   ├── 06_sparksql.ipynb
+│   ├── pyspark_check.ipynb
+│   └── team2_hw.ipynb
+├── concepts
+│   └── concepts.md
+└── pyspark_check.ipynb
+
+2 directories, 10 files
+
+```
+
 ### Working on Docker
 
 ```
